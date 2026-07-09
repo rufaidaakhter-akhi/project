@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  gap: 1fr;
+  max-width: 1200px;
+  background-color: #f1aa2f;
+  margin: 0 auto;
+}
+button{
+  background-color: #5c4621;
+  color: #e4d7c2;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.container {
+max-width: 1200px;
+background-color: #5c4621;
+ margin: 0 auto;
+}  
+
+.text {
+  color: #e4d7c2;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
