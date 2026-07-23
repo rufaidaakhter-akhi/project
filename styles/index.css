@@ -10,6 +10,7 @@
   gap: 1fr;
   max-width: 1200px;
   background-color: #f1aa2f;
+  border: 10px solid #db2808;
   margin: 0 auto;
 }
 
@@ -25,6 +26,7 @@ button{
 .container {
 max-width: 1200px;
 background-color: #5c4621;
+
  margin: 0 auto;
 }  
 
