@@ -8,3 +8,7 @@ let name = "akhi"
 console.log(name);
 name="rufaida akhter akhi";
 console.log(name);
+let Name = "Kalam";
+let country ='bangladesh';
+console.log(Name ,country);
+console.log(typeof weigth);
