@@ -11,7 +11,16 @@ console.log(name);
 let Name = "Kalam";
 let country ='bangladesh';
 console.log(Name ,country);
+console.log('---------------------------------------------------------');
 console.log(typeof weigth);
-biger then  >
-less then <
-gtraterthen or equal >=
+console.log(typeof name);
+console.log(typeof Name);
+console.log('---------------------------------------------------------');// biger then  >
+// less then <
+// gtraterthen or equal >=
+const money = 500;
+const price = 40;
+if (price < money){
+    console.log('i will buy')
+}
+console.log('---------------------------------------------------------');
