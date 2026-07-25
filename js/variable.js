@@ -12,3 +12,6 @@ let Name = "Kalam";
 let country ='bangladesh';
 console.log(Name ,country);
 console.log(typeof weigth);
+biger then  >
+less then <
+gtraterthen or equal >=
