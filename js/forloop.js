@@ -3,3 +3,8 @@ for(let i=0; i<=5;i++){
 }
 
 for( let j=0; j<=9 ; j++){console.log("print j : ", j);}
+
+
+for( let p = 1; p <= 5 ; p++){
+    console.log(p);
+}
