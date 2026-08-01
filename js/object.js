@@ -7,4 +7,4 @@ const persone = {
 console.log(persone.name); // John
 console.log(persone.age); // 30
 console.log(persone.isAdmin); // true
-console.log(persone); // true
+console.log(persone['likes birds']); // true
