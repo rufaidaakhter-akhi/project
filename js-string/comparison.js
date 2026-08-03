@@ -5,7 +5,8 @@ const book = "Chemistry";
 
 console.log(book.toLowerCase());
 
-if (subject === book) {
+// if (subject === book) {
+if (subject.toLowerCase() === book.toLowerCase()) {
     console.log("poira poira fatai felbo");
 
 }
