@@ -41,3 +41,4 @@ geet("akhi");
 fanOnKor();
 console.log("say type of sum " + typeof sum);
 console.log("say type of geet " + typeof geet);
+console.log("say type of fanOnKor " + typeof fanOnKor);
