@@ -102,6 +102,8 @@ function generateLeaderboard(students) {
     ) {
       return "Invalid";
     }
+  
+
   }
 
   const qualified = students.filter(student => {
