@@ -4,4 +4,6 @@ let c = 12;
 let d = 12;
 let min = a-b;
 let sum = a+b;
-console.log(sum, min);
+let dd = 12;
+let d1 = 12;
+console.log(min);
